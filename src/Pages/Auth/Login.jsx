@@ -64,9 +64,6 @@ const Login = () => {
               value={username}
               onChange={(e) => setUsername(e.target.value)}
             />
-            <small className="d-flex flex-row form-text text-muted">
-              We'll never share your email with anyone else.
-            </small>
           </div>
           <div className="form-group mt-2">
             <label className="d-flex flex-row">Password</label>

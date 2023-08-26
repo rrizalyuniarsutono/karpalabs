@@ -1,6 +1,5 @@
 import React from 'react'
 import Side from "../../Components/Sidebar/Side";
-import Charts1 from "../../Components/Charts/Charts1";
 import Charts2 from "../../Components/Charts/Charts2";
 import Charts3 from '../../Components/Charts/Charts3';
 
